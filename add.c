@@ -2,7 +2,7 @@
 
 int main() {
     int num1, num2, sum;}}}}}}
-    
+}}Pve
     printf("Enter the first no: ");
     scanf("%d", &num1);
     
