@@ -6,7 +6,7 @@ int main() {
     printf("Enter the first no: ");
     scanf("%d", &num1);
     
-    printf("Enter the second no: ");
+    printf("Enter the second no: "); {}{}{}{}
     scanf("%d", &num2);
     
     sum = num1 + num2;
@@ -16,3 +16,6 @@ int main() {
     return 0;
 }
 }}}}}}
+
+
+BDGUAVDAGV }
